@@ -12,7 +12,6 @@ This is a currency converter web application that fetches real-time data for cur
 
 ## Screenshots
 
-![Currency Converter](https://i.postimg.cc/mrFTzR1D/Currency-Converter1.png)
 ![Currency Converter](https://i.postimg.cc/qvFkvgRS/Currency-Converter2.png)
 
 ## Usage
