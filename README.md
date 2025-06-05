@@ -40,7 +40,7 @@ Please note that you may need to sign up for an API key and update the code with
 
 - HTML
 - CSS
-- JavaScript (Modern)
+- JavaScript
 
 ## Credits
 
