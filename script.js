@@ -65,7 +65,7 @@ btn.onclick = () => {
 // convert the amount to different currency using Fetch API 
 function convertAmount(amount) {
 
-    fetchData(`https://v6.exchangerate-api.com/v6/cdea5d2ff281628047aa79f7/latest/USD`)
+    fetchData(`https://v6.exchangerate-api.com/v6/4a502e943560a0434d830abc/latest/USD`)
         .then(data => {
 
             const fromRates = data.conversion_rates[fromCurrencySelectTag.value];
